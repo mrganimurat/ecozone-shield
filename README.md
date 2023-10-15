@@ -11,6 +11,8 @@ Github: https://github.com/mrganimurat
 Devpost: https://devpost.com/mrganimurat
 Instagram: https://instagram.com/mrganimurat
 
+Figma prototype: [click](https://www.figma.com/proto/ax7qoDP28p9Pqn4BLzdV8s/Destruction-of-the-ozone-layer?page-id=0%3A1&type=design&node-id=5-61&viewport=762%2C168%2C0.27&t=x5TD2UkeFCat5ZOV-1&scaling=min-zoom&starting-point-node-id=5%3A61&mode=design)
+
 ## About the Author
 
 Hello, my name is Ganimurat, and I am the author of this project. The project is dedicated to the ozone layer and its preservation. My mission is to spread awareness about the importance of the ozone layer and to contribute to its protection.
